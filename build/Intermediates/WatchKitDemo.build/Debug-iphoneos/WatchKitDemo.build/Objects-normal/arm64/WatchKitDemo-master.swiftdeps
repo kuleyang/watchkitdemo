@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "47c207c0300aa2283d2bac7311fded16"
+build_time: [516727499, 5569000]
+inputs:
+  "/Users/kule/XcodeProjects/WatchKitDemo/WatchKitDemo/ViewController.swift": [516724162, 0]
+  "/Users/kule/XcodeProjects/WatchKitDemo/WatchKitDemo/AppDelegate.swift": [516724162, 0]

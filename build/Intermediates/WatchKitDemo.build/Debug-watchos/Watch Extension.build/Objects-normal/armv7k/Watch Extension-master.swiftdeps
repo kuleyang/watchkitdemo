@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "cc59c75ab90ca8c6057dd70cc0533563"
+build_time: [516727496, 711697000]
+inputs:
+  "/Users/kule/XcodeProjects/WatchKitDemo/Watch Extension/NotificationController.swift": [516724350, 0]
+  "/Users/kule/XcodeProjects/WatchKitDemo/Watch Extension/ExtensionDelegate.swift": [516724350, 0]
+  "/Users/kule/XcodeProjects/WatchKitDemo/Watch Extension/InterfaceController.swift": [516727202, 0]
